@@ -1,12 +1,12 @@
 ### Hii!
 
-I'm someone who like to learn, know how things works, and challenge myself
+I'm someone who likes to learn, understand how things work, and challenge myself.
 
-I have some repositories, noone is anything serious, anything but the ant-project, it's my personal work of engeniering/art
+I have some repositories; none of them are anything serious, except the ant project — it’s my personal work of engineering/art.
 
-I learn all what i want or nead, so my tech-stack isn't realy important, but i like to use c++ and python :)
+I learn whatever I want or need, so my tech stack isn’t really important, but I like to use C++ and Python.
 
-
+I don’t really know what to put here yet, sooo for now, that’s it :)
 
 <!--
 - 🔭 I’m currently working on ...
