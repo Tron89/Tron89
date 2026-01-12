@@ -1,10 +1,14 @@
-### I am me, nothing more :D
+### Hii!
+
+I'm someone who like to learn, know how things works, and challenge myself
+
+I have some repositories, noone is anything serious, anything but the ant-project, it's my personal work of engeniering/art
+
+I learn all what i want or nead, so my tech-stack isn't realy important, but i like to use c++ and python :)
+
+
 
 <!--
-**Tron89/Tron89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
